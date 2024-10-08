@@ -72,6 +72,7 @@ function App() {
           </button>
         </div>
       </form>
+      <h2>Output might not be shown</h2>
       <div className="result-container">
         {loading ? (
           <div className="loader-container">
